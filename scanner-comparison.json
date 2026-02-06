@@ -1,0 +1,56 @@
+{
+  "timestamp": "2026-02-06T21:45:15.499Z",
+  "url": "https://www.bankofamerica.com/",
+  "axeCore": {
+    "violations": 5,
+    "passes": 42,
+    "incomplete": 4,
+    "inapplicable": 47,
+    "totalRules": 98,
+    "criticalViolations": 1,
+    "seriousViolations": 1,
+    "moderateViolations": 1,
+    "minorViolations": 2,
+    "affectedElements": 42,
+    "wcag2a": 1,
+    "wcag2aa": 1,
+    "wcag2aaa": 0,
+    "bestPractice": 3
+  },
+  "arcRulesEngine": {
+    "violations": 14,
+    "totalElements": 86,
+    "criticalSeverity": 0,
+    "highSeverity": 6,
+    "mediumSeverity": 44,
+    "lowSeverity": 36,
+    "wcagIssues": 0,
+    "bestPracticeIssues": 27,
+    "uniqueRules": {}
+  },
+  "analysis": {
+    "axeViolations": [
+      "aria-allowed-role",
+      "color-contrast",
+      "empty-heading",
+      "image-alt",
+      "region"
+    ],
+    "arcViolations": [
+      "ariaAttributeIsAllowed",
+      "ariaHiddenAttributeUsed",
+      "cssTextFormatting",
+      "colorContrast",
+      "headingHasSingleH1",
+      "headingHasText",
+      "htmlIDIsUnique",
+      "htmlItalic",
+      "htmlLineBreakIsUsed",
+      "imageSVGHasRole",
+      "landmarkMainIsUnique",
+      "listItemNotEmpty",
+      "navigationLinkValidLabel",
+      "navigationSkipLinks"
+    ]
+  }
+}
